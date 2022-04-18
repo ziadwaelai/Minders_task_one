@@ -1,6 +1,8 @@
 # minders_task_one
 
 A new Flutter project.
+![Screenshot_1650293608](https://user-images.githubusercontent.com/73315485/163827177-c714eb69-9dbe-4188-874d-5999f37e6c81.png)
+
 
 ## Getting Started
 
